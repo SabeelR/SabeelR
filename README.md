@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sabeelur Rahaman
-- 👀 I’m a software developer
-- 🌱 I’m currently expanding my knowledge about web development
-- 💞️ I’m looking to collaborate on making of new websites
+- 👀 I’m a Software Enginner
+- 🌱 I’m currently working as QA tester with total experience of 2+ years in QA and software development
+- 💞️ I’m looking to collaborate on making of new websites and also testing them
 - 📫 How to reach me there you go sabeelurahman05@gmail.com
 
 <!---
